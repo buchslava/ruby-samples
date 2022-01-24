@@ -1,4 +1,4 @@
-Ruby...
+## Ruby...
 
 [Basic Questions](https://gist.github.com/ryansobol/5252653)
 
@@ -19,3 +19,27 @@ Ruby...
 [Building a 30 line HTTP server in Ruby](https://blog.appsignal.com/2016/11/23/ruby-magic-building-a-30-line-http-server-in-ruby.html)
 
 [About Rails concerns](https://medium.com/@carlescliment/about-rails-concerns-a6b2f1776d7d)
+
+
+## Ruby on Rails
+
+### Ruby on Rails Interview
+* https://www.toptal.com/ruby-on-rails/interview-questions
+* https://career.guru99.com/top-34-ruby-on-rail-interview-questions/
+
+### Ruby on Rails Basic courses
+
+* https://www.youtube.com/watch?v=LAFjA76huC4
+* https://www.youtube.com/watch?v=Ae19vpQ14jw
+
+### Ruby on Rails & React
+
+* https://www.youtube.com/watch?v=oyjzi837wME
+* https://www.youtube.com/watch?v=F0xErjOtJAQ
+* https://github.com/zayneio/open-flights
+
+### CSRF & Security
+
+* https://habr.com/en/post/318748/
+* https://eqsash.com/articles/chto-takoe-cookie-samesite-kakie-znacheniya-mozhet-imet-etot-atribut-i-kak-ubrat-oshibki-v-konsoli-brauzera
+* https://www.lordlikely.com/bezopasnost/9-populjarnyh-tipov-atak-na-veb-prilozhenija/
